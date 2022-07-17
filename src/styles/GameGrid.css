@@ -1,0 +1,9 @@
+.grid-container {
+  border: 1px solid blue;
+}
+
+.game-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
