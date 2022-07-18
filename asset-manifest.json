@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.adfc2912.css",
+    "main.js": "/memory-game/static/js/main.b92ec45c.js",
+    "static/media/ping-ping.png": "/memory-game/static/media/ping-ping.b0a3669b20f7363c0b59.png",
+    "static/media/badger.png": "/memory-game/static/media/badger.8b7879032b85f014a1f9.png",
+    "static/media/marty.png": "/memory-game/static/media/marty.36cb83179f6231f5b8e4.png",
+    "static/media/steve.png": "/memory-game/static/media/steve.8012fb593f3cac33fbf0.png",
+    "static/media/harry.png": "/memory-game/static/media/harry.2a6f31f5dccf88f00598.png",
+    "static/media/malcom.png": "/memory-game/static/media/malcom.f827d02f3486fa866af2.png",
+    "static/media/dooda.png": "/memory-game/static/media/dooda.da4875e9aa3f604c7bac.png",
+    "static/media/wesley.png": "/memory-game/static/media/wesley.ef2f34bf6c68bc964447.png",
+    "static/media/flump.png": "/memory-game/static/media/flump.573019a385bd8231eafe.png",
+    "static/media/crumpet.png": "/memory-game/static/media/crumpet.be54806720b347be32f1.png",
+    "static/media/beansy-baby.png": "/memory-game/static/media/beansy-baby.7d192eb2ec1ab27a3c16.png",
+    "static/media/ronald.png": "/memory-game/static/media/ronald.cb905156d1a7fef2e0f7.png",
+    "index.html": "/memory-game/index.html",
+    "main.adfc2912.css.map": "/memory-game/static/css/main.adfc2912.css.map",
+    "main.b92ec45c.js.map": "/memory-game/static/js/main.b92ec45c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adfc2912.css",
+    "static/js/main.b92ec45c.js"
+  ]
+}
